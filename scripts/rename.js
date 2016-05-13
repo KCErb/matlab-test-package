@@ -1,2 +1,2 @@
 const fs = require('fs');
-fs.rename("../MatPack", "MatPack");
+fs.renameSync("../MatPack", "../+MatPack");

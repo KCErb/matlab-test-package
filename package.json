@@ -1,10 +1,10 @@
 {
   "name": "MatPack",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Let's see if we can use npm as a matlab package manager",
   "main": "",
   "scripts": {
-    "postinstall": "scripts/rename.js"
+    "postinstall": "node scripts/rename.js"
   },
   "repository": {
     "type": "git",
