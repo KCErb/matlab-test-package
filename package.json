@@ -4,7 +4,7 @@
   "description": "Let's see if we can use npm as a matlab package manager",
   "main": "",
   "scripts": {
-    "postinstall": "scripts/rename"
+    "postinstall": "scripts/rename.js"
   },
   "repository": {
     "type": "git",
