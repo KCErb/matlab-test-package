@@ -1,0 +1,24 @@
+{
+  "name": "+MatPack",
+  "version": "1.0.0",
+  "description": "Let's see if we can use npm as a matlab package manager",
+  "main": "",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KCErb/matlab-test-package.git"
+  },
+  "keywords": [
+    "matlab",
+    "package",
+    "management"
+  ],
+  "author": "KC Erb <iamkcerb@gmail.com> (http://kcerb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KCErb/matlab-test-package/issues"
+  },
+  "homepage": "https://github.com/KCErb/matlab-test-package#readme"
+}
